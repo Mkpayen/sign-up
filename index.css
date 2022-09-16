@@ -1,0 +1,111 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.class1{
+    /* padding: 10px; */
+    display: flex;
+    /* justify-content: space-between; */
+    gap: 15px;
+    align-items: center;
+    list-style: none;
+    width: 580px;
+    font-size: 13px;
+    cursor: pointer;
+}
+.class2{
+    display: flex;
+    justify-content: space-between;
+    /* align-items: center; */
+    width: 400px;
+    list-style: none;
+    font-size: 18px;
+    padding-right: 50px;
+    cursor: pointer;
+}
+.header{
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+.div1{
+    display: flex;
+    align-items: center;
+    /* width: 700px; */
+}
+.h3{
+    margin-left: 110px;
+    color: rgb(9, 175, 9);
+    font-size: 22px;
+    margin-right: 50px;
+}
+h1{
+    font-size: 60px;
+    width: 780px;
+    margin-left: 25px;
+    margin-bottom: 20px;;
+}
+.p{
+    font-size: 18px;
+    width: 540px;
+    margin-left: 30px;
+}
+.button1{
+    background-color: white;
+    color: black;
+    height: 35px;
+    border: solid black;
+    width: 170px;
+    font-size: 10px;
+    margin-right:6pc;
+    cursor: pointer;
+}
+.section2{
+    margin-top: 70px;
+    display: flex;
+}
+.meet{
+    margin-left: 85px;
+}
+
+button{
+    background-color: rgb(8, 119, 8);
+    color: white;
+    border: solid white;
+    height: 40px;
+    width: 470px;
+    cursor: pointer;
+
+}
+span{
+    color: black;
+}
+.class{
+    background-color: white;
+    color: rgb(27, 25, 25);
+    border: solid rgb(245, 243, 243) 3px;
+    font-size: 15px;
+    width: 300px;
+}
+.label{
+     background-color: rgb(241, 236, 236);
+     height: 40px;
+     width: 300px;
+     border: solid white;
+     padding-left: 10px;
+}
+.up{
+    background-color:green;
+    height: 40px;
+    width: 300px;
+    /* border:solid-box; */
+}
+.sign{
+    font-size: 18px;
+    height: 40px;
+}
+
+
+
